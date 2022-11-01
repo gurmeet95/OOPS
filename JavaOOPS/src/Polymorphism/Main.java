@@ -9,7 +9,7 @@ public class Main {
 	//	Square sq1=new Square();
 		Shapes sq2=new Square();  // this also work in Polymorphism.
 		Triangle t1=new Triangle();
-		Square.area();
+		c1.area();
 
 	}
 
