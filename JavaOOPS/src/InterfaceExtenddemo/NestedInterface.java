@@ -12,6 +12,7 @@ class B4 implements NestedInterface.NestedInt{
 		// TODO Auto-generated method stub
 		return (num & 1)==1;
 	}
-	
+	// nested interface can be declared as public,private or protected.
+	//Top level interface can be public or default one.
 }
 
